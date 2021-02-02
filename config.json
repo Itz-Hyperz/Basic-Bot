@@ -1,0 +1,11 @@
+{
+    "token": "your-bot-token-goes-here",
+    "prefix": "bb!",
+    "presname": "https://github.com/itz-hyperz",
+    "prestype": "PLAYING",
+    "presstatus": "dnd",
+    "colorhex": "#4d91ff",
+    "voicechanneltojoin": "your-voice-channel-id",
+    "serverinvite": "https://discord.gg/d5Wbegw",
+    "botimageurl": "https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/images/blade/evoke/blade-logo-b-lg.png"
+}
