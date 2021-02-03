@@ -20,7 +20,7 @@ As basic as a Discord Bot can get!
 ```SUPPORT NO LONGER PROVIDED```
 
 - Join [My Discord Server](https://hyperz.dev/discord)
-- Create a [GitHub Issue](https://github.com/Itz-Hyperz/Assistant-Bot/issues)
+- Create a [GitHub Issue](https://github.com/Itz-Hyperz/Basic-Bot/issues)
 - Send Me An [Email](mailto:logan@hyperz.dev)
 
 ---
